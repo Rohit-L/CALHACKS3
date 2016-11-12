@@ -13,4 +13,10 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require react/react
+//= require cloudinary
 //= require_tree .
+
+//= require index
+
+
