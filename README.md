@@ -1,7 +1,9 @@
 # ReLive - CALHACKS 2016
 
 [Live Preview](http://www.relive-calhacks.herokuapp.com)
+
 [Devpost](https://devpost.com/software/relive-3q4fta)
+
 [Promo Video](https://www.youtube.com/watch?v=BnPheoPr0GU)
 
 ## Inspiration
