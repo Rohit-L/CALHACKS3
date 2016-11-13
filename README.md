@@ -1,5 +1,9 @@
 # ReLive - CALHACKS 2016
 
+[Live Preview](http://www.relive-calhacks.herokuapp.com)
+[Devpost](https://devpost.com/software/relive-3q4fta)
+[Promo Video](https://www.youtube.com/watch?v=BnPheoPr0GU)
+
 ## Inspiration
 
 Our inspiration for ReLive was that we wanted a way to return and re-experience our best moments and memories. By creating a smart photo gallery, we are able to reminisce and find a way to "ReLive" life's greatest moments.
